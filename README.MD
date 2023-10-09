@@ -1,2 +1,2 @@
-<h1 align="right">Liticane</h1>
-<h3 align="right">Developer</h3>
+<h1 align="center">Liticane</h1>
+<h3 align="center">UI / UX Designer. Developer.</h3>
