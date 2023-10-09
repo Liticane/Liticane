@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liticane</h1>
+<h1 align="center">Liticane</h1>
 <h3 align="center">UI / UX Designer & Developer.</h3>
 
 ## Languages
@@ -8,3 +8,5 @@
 ## Tools
 - React.JS
 - Tailwind
+
+<h1 align="center">Readme Unfinished 💀</h1>
