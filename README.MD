@@ -2,8 +2,8 @@
 <h3 align="center">UI / UX Designer & Developer.</h3>
 
 ## Languages
-- Java / Kotlin
-- C / C++
+- A bit of Java / Kotlin
+- A bit of C / C++
 
 ## Tools
 - React.JS
