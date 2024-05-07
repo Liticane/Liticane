@@ -2,14 +2,14 @@
 Anticheat, Obfuscation developer and Reverse Engineer.
 
 ## Personal Info
-<p>Age: 15</p>
-<p>Location: Russia</p>
+- Age: 15
+- Location: Russia
 
 ## Languages
-Java
-Kotlin
+- Java
+- Kotlin
 Lua
-
+- 
 ## Experience 
 ### General
 - 1 year in Java obfuscation
