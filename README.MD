@@ -1,4 +1,4 @@
-# Liticane
+## Liticane
 Anticheat, Obfuscation developer and Reverse Engineer.
 
 ## Personal Info
@@ -10,11 +10,11 @@ Java
 Kotlin
 Lua
 
-# Experience 
-## General
+## Experience 
+### General
 - 1 year in Java obfuscation
 - 1 year in Anti-cheating
-## Team work
+### Team work
 - NextByte (Scriptkitty)
   - Java Obfuscator developer.
   - Java to C Transpiler developer.
