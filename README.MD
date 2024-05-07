@@ -1,12 +1,20 @@
-<h1 align="center">Liticane</h1>
-<h3 align="center">UI / UX Designer & Developer.</h3>
+# Liticane
+Anticheat, Obfuscation developer and Reverse Engineer.
+
+## Personal Info
+15 years old
+from Russia
 
 ## Languages
-- A bit of Java / Kotlin
-- A bit of C / C++
+Java
+Kotlin
+Lua
 
-## Tools
-- React.JS
-- Tailwind
-
-<h1 align="center">Readme Unfinished 💀</h1>
+# Experience 
+## General
+- 1 year in Java obfuscation
+- 1 year in Anti-cheating
+## Team work
+- NextByte (Scriptkitty)
+  - Java Obfuscator developer.
+  - Java to C Transpiler developer.
