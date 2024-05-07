@@ -8,8 +8,8 @@ Anticheat, Obfuscation developer and Reverse Engineer.
 ## Languages
 - Java
 - Kotlin
-Lua
-- 
+- Lua
+
 ## Experience 
 ### General
 - 1 year in Java obfuscation
