@@ -18,3 +18,9 @@ Anticheat, Obfuscation developer and Reverse Engineer.
 - NextByte (Scriptkitty)
   - Java Obfuscator developer.
   - Java to C Transpiler developer.
+
+## Current Projects
+- (Private) Fluorescent Client
+- (Private) Monoxide Client
+- (Private) fGuard Java Obfuscator
+- (Private) rGuard Java to C Transpiler 
