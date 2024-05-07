@@ -22,5 +22,3 @@ Anticheat, Obfuscation developer and Reverse Engineer.
 ## Current Projects
 - (Private) Fluorescent Client
 - (Private) Monoxide Client
-- (Private) fGuard Java Obfuscator
-- (Private) rGuard Java to C Transpiler 
