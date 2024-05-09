@@ -1,4 +1,4 @@
-## Liticane
+## ✨ Liticane
 Anticheat, Obfuscation developer and Reverse Engineer.
 
 ## Personal Info
