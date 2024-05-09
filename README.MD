@@ -1,5 +1,5 @@
 ## ✨ Liticane
-Anticheat, Obfuscation developer and Reverse Engineer.
+Anti-cheat, Obfuscation developer and Reverse Engineer.
 
 ## Personal Info
 - Age: 15
