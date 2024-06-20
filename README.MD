@@ -12,7 +12,7 @@ Anti-cheat, Obfuscation Developer and Reverse Engineer.
 
 ## Experience 
 ### General
-- 1 year in Java obfuscation
+- 1.5 years in Java obfuscation
 - 1 year in Anti-cheating
 ### Team work
 - NextByte (Scriptkitty)
