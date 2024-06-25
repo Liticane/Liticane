@@ -15,7 +15,7 @@ Anti-cheat, Obfuscation Developer and Reverse Engineer.
 - 1.5 years in Java obfuscation
 - 1 year in Anti-cheating
 ### Team work
-- NextByte (Scriptkitty)
+- (Retired) NextByte (Scriptkitty)
   - skGuard - Java Obfuscator developer.
   - skJ2C - Java to C Transpiler developer.
 
