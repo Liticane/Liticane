@@ -20,5 +20,4 @@ Anti-cheat, Obfuscation Developer and Reverse Engineer.
   - skJ2C - Java to C Transpiler developer.
 
 ## Current Projects
-- (Private) Fluorescent Client
-- (Private) Monoxide Client
+- Monoxide Client b28
